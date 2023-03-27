@@ -13,3 +13,4 @@
   - User experience
   - User interface
   - SEO e boas práticas
+  - Responsividade
