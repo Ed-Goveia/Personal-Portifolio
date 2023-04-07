@@ -188,7 +188,7 @@ img {
 @media screen and (max-width: 767px) {
     .nav__menu {
         position: fixed;
-        bottom: -100%;
+        bottom: -100%; /* Esconder menu */
         left: 0;
         width: 100%;
         background-color: var(--body-color);
@@ -234,3 +234,6 @@ img {
     color: var(--first-color-alt);
 }
 
+.show-menu{
+    bottom: 0;
+}
